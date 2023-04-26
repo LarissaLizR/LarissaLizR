@@ -1,5 +1,6 @@
-# 💫 About Me:
-Seja bem Vinda (o) ao meu perfil... Estou me apaixonando por tecnologia , iniciei meu aprendizado por pura curiosidade e força de vontade. Procurando sempre aprender mais, sou uma pessoa criativa, proativa e gostar de ajudar sempre e quando posso. "Aprendendo sobre HTML5, CSS3, JavaScript (ES6+), React, Redux, Python (Django e Flask) e SQL."
+# 💫 About Me: Liz 🧡
+
+Seja bem Vinda (o) ao meu perfil... Estou me apaixonando por tecnologia , iniciei meu aprendizado por pura curiosidade e força de vontade. Procurando sempre aprender mais, sou uma pessoa criativa, proativa e gostar de ajudar sempre e quando posso. "Aprendendo sobre HTML5, CSS3, JavaScript (ES6+), React, Redux, Python (Django e Flask) e SQL.💻"
 
 
 ## 🌐 Socials:
